@@ -1,0 +1,4 @@
+- a to do list using react in order to add, delete, and track tasks
+- incorporated mulitple components in order to create the application
+- created functions that were passed into components as props in order to add task, delete task, and set reminders
+- used React useStates in order to display/close (change the state of AddTask component) the add new task button, and to add new tasks components in the task array
